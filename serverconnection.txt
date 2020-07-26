@@ -1,0 +1,11 @@
+mobi
+
+10.20.129.20
+
+root
+
+docker container ls
+
+docker exec -it ds bash
+
+jupyter notebook list
